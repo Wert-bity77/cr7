@@ -1,0 +1,60 @@
+
+.werty {
+    width: 480px;
+    height: 330px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 0 auto;
+    position: relative; 
+  bottom: 90px;
+    
+     
+    
+}
+
+
+.eva {
+    color: black;
+    /* padding: 40px 0; */
+
+    text-align: start;
+    font-size: 20px;
+}
+
+
+
+
+.header__box{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.parent2 {
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.logo2 {
+   color: black;
+   width: 2000px;
+   padding: 40px 0;
+   text-align: start;
+   font-size: 20px;
+   line-height: 10;
+   position: relative;
+   bottom: 90px;
+}
+
+
